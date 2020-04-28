@@ -20,6 +20,18 @@ module.exports = {
         name: `github`,
         url: `https://github.com/pratikstemkar`,
       },
+      {
+        name: `linkedin`,
+        url: `https://linkedin.com/in/pratikstemkar`,
+      },
+      {
+        name: `mail`,
+        url: `mailto:pratikstemkar@gmail.com`,
+      },
+      {
+        name: `pratikstemkar.me`,
+        url: `https://pratikstemkar.me`,
+      },
     ],
   },
 }
