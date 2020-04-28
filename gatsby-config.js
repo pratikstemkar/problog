@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/problog",
   plugins: [
     {
       resolve: `gatsby-theme-blog`,
