@@ -1,2 +1,0 @@
-# problog
-Private Blog
